@@ -608,7 +608,7 @@ $F{chaveAcesso}.substring(43,47)]]></textFieldExpression>
 					<textFieldExpression><![CDATA[($F{destinatarioCnpjCpf}==null)? "CONSUMIDOR NÃO IDENTIFICADO" : "CONSUMIDOR:"]]></textFieldExpression>
 				</textField>
 				<textField pattern="" isBlankWhenNull="true">
-					<reportElement key="textField-26" mode="Transparent" x="101" y="11" width="99" height="9" uuid="1234e498-c45a-486f-8dfe-fe7c6ef5cd07"/>
+					<reportElement key="textField-26" mode="Transparent" x="101" y="29" width="99" height="9" uuid="1234e498-c45a-486f-8dfe-fe7c6ef5cd07"/>
 					<textElement textAlignment="Center" verticalAlignment="Middle">
 						<font fontName="SansSerif" size="7" isBold="true"/>
 					</textElement>
